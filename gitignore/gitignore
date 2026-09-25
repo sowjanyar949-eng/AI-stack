@@ -1,0 +1,6 @@
+vscode/
+venv/
+__pycache__/
+.pyc
+env
+5phnt
